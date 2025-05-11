@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/ea8db878-447c-480c-ab81-7ee7db44122d)
+![image](https://github.com/user-attachments/assets/d84057b0-e662-4480-afd7-bfaff8de4ba5)
+![image](https://github.com/user-attachments/assets/36f8c5b3-b4fe-48de-bf60-b5c7cc15514d)
 
-### Name:
-### Register Number:
+
+
+### Name: ARANI VENKATA SUNDARA LEELA KRISHNA
+### Register Number: 212224240013
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
